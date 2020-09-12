@@ -1,0 +1,19 @@
+.header {
+    background-color: white;
+    margin: 15px;
+    width: 100%;
+    top: 0;
+    z-index: 110;
+    display: flex;
+}
+
+.iconFluke{
+    width: 50%;
+    margin-left: 45%;
+}
+
+.iconFluke img{
+    max-width: 100%;
+    width: 85px;
+
+}
